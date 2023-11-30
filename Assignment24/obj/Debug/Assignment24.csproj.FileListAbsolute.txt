@@ -1,0 +1,10 @@
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\bin\Debug\Assignment24.exe.config
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\bin\Debug\Assignment24.exe
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\bin\Debug\Assignment24.pdb
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\bin\Debug\DynamicLib.dll
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\bin\Debug\DynamicLib.pdb
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.CopyComplete
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\obj\Debug\Assignment24.exe
+C:\Users\Dell\source\Day19\Assignment24\Assignment24\obj\Debug\Assignment24.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\Day19\DynamicLib\DynamicLib\bin\Debug\DynamicLib.dll
+C:\Users\Dell\source\Day19\DynamicLib\DynamicLib\bin\Debug\DynamicLib.pdb
+C:\Users\Dell\source\Day19\DynamicLib\DynamicLib\obj\Debug\DynamicLib.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day19\DynamicLib\DynamicLib\obj\Debug\DynamicLib.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day19\DynamicLib\DynamicLib\obj\Debug\DynamicLib.dll
+C:\Users\Dell\source\Day19\DynamicLib\DynamicLib\obj\Debug\DynamicLib.pdb
